@@ -165,7 +165,7 @@ p {
   width: 100%;
   position: relative;
   margin: 0px auto;
-  background-color: red;
+  /* background-color: red; */
 }
 
 .section1 .img_container {
