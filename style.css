@@ -4,7 +4,7 @@
 :root {
   --font-family-body: "Poppins", sans-serif;
   --font-family-header: "Montserrat", sans-serif;
-  --color-primary: #fa4a0c;
+  --color-primary: rgb(240, 109, 62);
 }
 
 * {
@@ -142,6 +142,11 @@ p {
   font-family: var(--font-family-header);
   font-size: 18px;
   font-weight: 550;
+}
+
+.head_button .btnB:hover, .btnA:hover {
+
+        background-color: #e99a7e;
 }
 
 .head_button .btnB {
