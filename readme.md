@@ -16,7 +16,7 @@
 - [Acknowledgments](#acknowledgments)
 
 
-# Saas Landing Page
+# CSS Landing Page
 
 Users should be able to:
 
@@ -24,11 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Design/My Result.jpeg)
+![Web capture_9-2-2022_115036_grazac-chall-1 vercel app](https://user-images.githubusercontent.com/56182207/153183677-63ab20b4-ddc8-4d21-881a-1acab3c8ac63.jpeg)
+
 
 ### Links
 
-Solution Url: ()
+Solution Url: ( https://grazac-chall-1.vercel.app )
 
 ### My Process
 
@@ -40,7 +41,7 @@ Solution Url: ()
 
 ### What I learned
 
-I'm really oppurtuned to know a lots of new html and css properties during my period writing this project, and i hope to be best at it. I was able to know more flexbox properties whereas some sematics on html also for example:
+I'm really oppurtuned to know a lots of new html and css properties during my period writing this project, and i hope to be best at it. I was able to know more flexbox  and how to use it in responsiveness properties whereas some sematics on html also for example:
 
 html
 <section>Some HTML code I'm proud of</section>
@@ -48,7 +49,9 @@ html
 
 css
 .proud-of-this-css {
-  flex-direction: column-reverse;
+  display: flex;
+  justify-content: space-between'
+  flex-direction: column;
 }
 
 
@@ -63,9 +66,10 @@ i want to focus more on media query, css grid, positioning and css animations, m
 
 ## Auther
 
-- Website - [Bankole Yusuf Adekunle](https://www.your-site.com)
-- Twitter - [@omobankole1](https://www.twitter.com/omobankole1)
-- Twitter - [@omobankole](https://www.github.com/omobankole)
+- Website - [Alade Christopher ]()
+- Twitter - [@Saint_kriz (https://www.twitter.com/@Saint_kriz)
+- Linkedin - [Alade Christopher](https://www.linkedin.com/in/alade-christopher/)
+- Instagram - [Chrisdbeloved ] [ https://www.instagram.com/chrisdbeloved/]
 
 ## Acknowledgments
  I really want to thank grazac academy for giving me great opportunity to be one of their student in the ongoing cohort and secondly tutor mayowa for the smooth interactive and comprehended classes. Victor, Mr dare for putting me through and lastly my coursemates. you all are wonderful.
